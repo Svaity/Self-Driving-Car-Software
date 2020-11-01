@@ -1,7 +1,12 @@
-# Self Driving Car Software
-[![BCH compliance](https://bettercodehub.com/edge/badge/Svaity/Self-Driving-Car-Software?branch=master)](https://bettercodehub.com/)
+### Self Driving Car Software :oncoming_police_car:
 
+<p align="center">
+    
 ![UnhealthyFixedBuzzard-size_restricted](https://user-images.githubusercontent.com/43662680/70956285-94fe4b80-2099-11ea-85f9-75d6b53adb1f.gif) 
+
+<p/>
+
+![](https://img.shields.io/github/languages/count/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/languages/top/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/repo-size/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/last-commit/Svaity/Self-Driving-Car-Software?color=%128C7E) [![BCH compliance](https://bettercodehub.com/edge/badge/Svaity/Self-Driving-Car-Software?branch=master)](https://bettercodehub.com/)
 
 Self-driving cars, have rapidly become one of the most transformative technologies to emerge. Fuelled by Deep Learning algorithms, they are continuously driving our society forward, and creating new opportunities in the mobility sector.
 This is a fully functional self-driving car fuelled entirely by Deep Learning. This powerful simulation  built using hands on skills in neural networks which could be brought bring to any project or company.
