@@ -1,11 +1,8 @@
-<div align="center> 
+
 ### Self Driving Car Software :oncoming_police_car:
 
-
-    
 ![UnhealthyFixedBuzzard-size_restricted](https://user-images.githubusercontent.com/43662680/70956285-94fe4b80-2099-11ea-85f9-75d6b53adb1f.gif) 
 
-</div>
 
 ![](https://img.shields.io/github/languages/count/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/languages/top/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/repo-size/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/last-commit/Svaity/Self-Driving-Car-Software?color=%128C7E) [![BCH compliance](https://bettercodehub.com/edge/badge/Svaity/Self-Driving-Car-Software?branch=master)](https://bettercodehub.com/)
 
