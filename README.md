@@ -1,7 +1,24 @@
+<div align="center">
+   <img src="https://ces.eetimes.com/wp-content/uploads/2020/01/image-eet-ces.jpg"/>
+</div>
 
-### Self Driving Car Software :oncoming_police_car:
+<br />
+
+<h2 align="center">
+    Self Driving Car 🚕 
+</h2>
+
+
 ![](https://img.shields.io/github/languages/count/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/languages/top/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/repo-size/Svaity/Self-Driving-Car-Software?color=%128C7E) ![](https://img.shields.io/github/last-commit/Svaity/Self-Driving-Car-Software?color=%128C7E) [![BCH compliance](https://bettercodehub.com/edge/badge/Svaity/Self-Driving-Car-Software?branch=master)](https://bettercodehub.com/)
-![UnhealthyFixedBuzzard-size_restricted](https://user-images.githubusercontent.com/43662680/70956285-94fe4b80-2099-11ea-85f9-75d6b53adb1f.gif) 
+
+<br />
+<div align="center">
+    
+ ![UnhealthyFixedBuzzard-size_restricted](https://user-images.githubusercontent.com/43662680/70956285-94fe4b80-2099-11ea-85f9-75d6b53adb1f.gif) 
+
+</div>
+
+
 
 
 Self-driving cars, have rapidly become one of the most transformative technologies to emerge. Fuelled by Deep Learning algorithms, they are continuously driving our society forward, and creating new opportunities in the mobility sector.
