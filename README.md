@@ -1,9 +1,4 @@
-<div align="center">
 <!--    <img src="https://ces.eetimes.com/wp-content/uploads/2020/01/image-eet-ces.jpg"/> -->
-</div>
-
-<br />
-
 <h2 align="center">
     Self Driving Car 🚕 
 </h2>
